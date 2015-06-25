@@ -1,0 +1,29 @@
+{
+  "name": "browsernotification",
+  "version": "1.0.1",
+  "description": "Native browser notification compatible for every browser and version",
+  "main": "browserNotification.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DutchProgrammer/browserNotification.git"
+  },
+  "keywords": [
+    "browser",
+    "notifications",
+    "native",
+    "native",
+    "browser",
+    "notification",
+    "notification",
+    "browser"
+  ],
+  "author": "Danny van der Knaap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DutchProgrammer/browserNotification/issues"
+  },
+  "homepage": "https://github.com/DutchProgrammer/browserNotification#readme"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "browsernotification",
+  "main": "browserNotification.js",
+  "version": "1.0.1",
+  "homepage": "https://github.com/DutchProgrammer/browserNotification",
+  "authors": [
+    "Danny van der Knaap <dutchprogrammer@gmail.com>"
+  ],
+  "description": "browser notification compatible for every browser and version",
+  "keywords": [
+    "browser",
+    "browser",
+    "notification",
+    "native",
+    "browser",
+    "notifications"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

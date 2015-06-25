@@ -1,4 +1,4 @@
-function sendNotification (title, options) {
+module.exports = function sendNotification (title, options) {
   // Memoize based on feature detection.
   if ("Notification" in window) {
     sendNotification = function (title, options) {
